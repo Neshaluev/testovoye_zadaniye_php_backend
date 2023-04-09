@@ -1,0 +1,15 @@
+{
+  "name": "maxim/testovoye_zadaniye_php_backend",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./app"
+    }
+  },
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "you@example.com"
+    }
+  ],
+  "require": {}
+}
